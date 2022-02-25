@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Khrustalev2000 AKA Andrei Khrustalev
+- 👀 I’m interested in learning IT, teaching languages, playing and designing videogames.
+- 🌱 I’m currently learning HTML and JavaScript as well as Technical Translation.
+- 📫 How to reach me: andrei.khrustalev@gmail.com
